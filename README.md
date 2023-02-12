@@ -13,4 +13,4 @@ A Nextcloud setup exclusively for local networks using Docker.
 6. Login on other devices at ``192.168.1.2`` or your specified static IP Address.
 
 ## Notes:
-1. Anything you restart Docker your data should be still available.
+1. Anytime you restart Docker your data should be still available.
